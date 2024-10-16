@@ -37,7 +37,7 @@ profiles:
     url: https://x.com/fra_wagner_
   - icon: brands/github
     url: https://github.com/FraWagner
-  - icon: hf-logo
+  - icon: huggingface
     url: https://huggingface.co/frwagner
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/franziska-w-3862b3138/
@@ -149,5 +149,11 @@ skills:
         description: ''
         #percent: 80
         icon: camera
+
+languages:
+  - name: German
+  - name: English
+  - name: French
+  - name: Spanish
 
 ---
