@@ -27,5 +27,6 @@ sections:
   - block: resume-languages
     content:
       title: Languages
+      show_skill_percentage: false
       username: admin
 ---
