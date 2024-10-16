@@ -107,19 +107,19 @@ skills:
         icon: python
       - name: R
         description: ''
-        icon: r-project
+        icon: fa-code
       - name: Stata
         description: ''
-        icon: database
+        icon: fa-database
       - name: Excel Power Query
         description: ''
-        icon: table
+        icon: fa-file-excel
       - name: LaTeX
         description: ''
-        icon: file-alt
+        icon: fa-file-text-o
       - name: MAXQDA
         description: ''
-        icon: comments
+        icon: fa-comment
 
 languages:
   - name: English
