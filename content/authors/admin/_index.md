@@ -123,10 +123,7 @@ skills:
 
 languages:
   - name: English
-    #percent: 100
   - name: German
-    #percent: 80
   - name: French
-    #percent: 60
 
 ---
