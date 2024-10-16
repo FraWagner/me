@@ -110,16 +110,16 @@ skills:
         icon: logo-r-script
       - name: Stata
         description: ''
-        icon: fa-database
+        icon: Stata
       - name: Excel Power Query
         description: ''
-        icon: fa-file-excel
+        icon: excel-file
       - name: LaTeX
         description: ''
-        icon: fa-file-text-o
+        icon: LaTeX
       - name: MAXQDA
         description: ''
-        icon: fa-comment
+        icon: maxqda
 
 languages:
   - name: English
