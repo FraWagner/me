@@ -74,8 +74,7 @@ education:
     date_end: 2018-07-31
 work:
   - position: Research Assistant
-#    company_name: AUTHLIB Project
-    project: AUTHLIB
+    company_name: AUTHLIB Project
     company_url: https://www.authlib.eu/
     company_logo: ''
     date_start: 2022-09-01
@@ -128,7 +127,7 @@ skills:
         icon: circle-stack
 
 languages:
-  title: 'Languages'
+  name: 'Languages'
   items:
     - name: German
       description: 'Native'
