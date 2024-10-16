@@ -37,8 +37,8 @@ profiles:
     url: https://x.com/fra_wagner_
   - icon: brands/github
     url: https://github.com/FraWagner
-#  - icon: brand/huggingface
-#    url: https://huggingface.co/frwagner
+  - icon: hf-logo
+    url: https://huggingface.co/frwagner
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/franziska-w-3862b3138/
   - icon: academicons/google-scholar
@@ -107,41 +107,47 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        #percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        #percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Stata
         description: ''
-        percent: 40
+        #percent: 40
         icon: circle-stack
-  - name: Hobbies
+      - name: Excel Power Query
+        description: ''
+        #percent: 40
+        icon: circle-stack
+      - name: LaTeX
+        description: ''
+        #percent: 40
+        icon: circle-stack
+      - name: MAXQDA
+        description: ''
+        #percent: 40
+        icon: circle-stack
+  - name: Languagees
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: German
         description: ''
-        percent: 60
+        #percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: English
         description: ''
-        percent: 100
+        #percent: 100
         icon: cat
-      - name: Photography
+      - name: French
         description: ''
-        percent: 80
+        #percent: 80
         icon: camera
-
-languages:
-  - name: German
-    percent: 100
-  - name: English
-    percent: 100
-  - name: French
-    percent: 85
-  - name: Spanish
-    percent: 70
+      - name: Spanish
+        description: ''
+        #percent: 80
+        icon: camera
 
 ---
