@@ -125,5 +125,6 @@ languages:
   - name: English
   - name: German
   - name: French
+  - name: Spanish
 
 ---
