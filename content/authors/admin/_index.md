@@ -113,13 +113,13 @@ skills:
         icon: Stata
       - name: Excel Power Query
         description: ''
-        icon: excel-file
+        icon: circle-stack
       - name: LaTeX
         description: ''
         icon: LaTeX
       - name: MAXQDA
         description: ''
-        icon: maxqda
+        icon: code-bracket
 
 languages:
   - name: English
