@@ -10,8 +10,8 @@ first_name: Franziska
 last_name: Wagner
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: PhD Political Science
-    institution: Central European University
+    institution: Central European University, Vienna, Austria
     date_start: 2020-09-01
     date_end: ''
   #  summary: |
