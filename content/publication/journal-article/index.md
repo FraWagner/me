@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "They can do it. Positive Authoritarianism in Poland and Hungary"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Zsolt Enyedi
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2024-05-22T00:00:00Z"
+doi: "https://doi.org/10.3389/fpos.2024.1390587"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +18,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Frontiers in Political Science"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: It is often assumed that right-wing authoritarian and populist parties appeal primarily to negative feelings such as frustration, fear or alienation, and that positive sentiments appear in their discourse mostly in the form of nostalgia. Our hypothesis is that this description fails to apply to leaders in power. This article employs a mixed-methods approach, using a novel dataset of Viktor Orbán’s (Fidesz - Hungary) and Jarosław Kaczyński’s (PiS - Poland) speeches. After grouping positive sentences, a structural topic model identifies central topics, while the qualitative part describes and contextualizes the nature of the detected positive messages. Our analysis reveals that Orbán and Kaczyński incorporate various types of positive sentiments, such as optimism, pride, and efficacy, into their discourse. Contrary to popular belief, they dedicate considerable attention to discussing the future and utilize various rhetorical devices to convey positive messages. These messages are intrinsically interwoven with the leaders’ visions of past and future, offering insights into the underlying framework of their fundamentally conflict-centered and illiberal worldview. This study challenges the notion that right-wing authoritarian politics rely solely on “politics of fear”. Instead, it suggests that such leaders employ positive affective appeals as a form of emotional governance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- speeches
+- authoritarianism
+- emotional governance
+- positive emotions
+- Hungary
+- Poland
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2024.1390587/full
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: Lukasz Michalczyk via Shutterstock'
   focal_point: ""
   preview_only: false
 
@@ -61,7 +66,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
