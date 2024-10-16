@@ -60,7 +60,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: True
+        exclude_featured: false
     design:
       view: citation
   - block: collection
