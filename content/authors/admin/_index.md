@@ -91,11 +91,21 @@ work:
     company_logo: ''
     date_start: 2022-07-01
     date_end: ''
-  #  summary: |
-  #    Responsibilities include:
-  #    - Count
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Country Expert for the Proscribed Right-Wing Extremist Organisation (PREO) Project
+    company_name: Centre for the Analysis of the Radical Right (CARR)
+    company_url: https://michaelzeller.de/data/index_data.html#proscribed-right-wing-extremist-organisations-preos  # Or the relevant project website, if applicable
+    date_start: 2021-07-01  # Example: 2023-03-01
+    date_end: ''
+    summary: |-2
+      Contributed as a country expert (France) for the PREO Project, which is led by the Centre for the Analysis of the Radical Right (CARR) in collaboration with the Weizenbaum Institute, European University Institute, and supported by the European Commission. The project aims to document all proscribed right-wing extremist organisations (PREOs) in the EU27 and the UK.
+    button:
+      text: 'Publication'
+      url: 'https://www.tandfonline.com/doi/full/10.1080/09546553.2023.2240446'
+  - position: Consultant - Database Unification for Email Marketing
+    date_start: 2024-05-01  
+    date_end: 2024-07-01  
+    summary: |2-
+      Led a project to optimize the management of email marketing databases, focusing on reviewing, unifying, and cleaning data to enhance targeted campaign capabilities and communication efficiency.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
