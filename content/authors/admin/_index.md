@@ -74,17 +74,6 @@ education:
     date_end: 2018-07-31
 
 work:
-  - position: Research Assistant
-    company_name: AUTHLIB Project
-    company_url: https://www.authlib.eu/
-    company_logo: ''
-    date_start: 2022-09-01
-    date_end: 2024-09-30
-    summary: |2-
-      Responsibilities include:
-      - Data collection and computational text analysis 
-      - Project management and communication
-      - Development of ethics guidelines and data management plan
   - position: Consultant - Country Expert for Democracy Tracker
     company_name: International IDEA
     company_url: https://www.idea.int/
@@ -101,6 +90,17 @@ work:
     button:
       text: 'Publication'
       url: 'https://www.tandfonline.com/doi/full/10.1080/09546553.2023.2240446'
+  - position: Research Assistant
+    company_name: AUTHLIB Project
+    company_url: https://www.authlib.eu/
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2024-09-30
+    summary: |2-
+      Responsibilities include:
+      - Data collection and computational text analysis 
+      - Project management and communication
+      - Development of ethics guidelines and data management plan
   - position: Consultant - Database Unification for Email Marketing
     date_start: 2024-05-01  
     date_end: 2024-07-01  
