@@ -107,7 +107,7 @@ skills:
         icon: python
       - name: R
         description: ''
-        icon: fa-code
+        icon: logo-r-script
       - name: Stata
         description: ''
         icon: fa-database
