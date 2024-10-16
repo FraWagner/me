@@ -37,8 +37,8 @@ profiles:
     url: https://x.com/fra_wagner_
   - icon: brands/github
     url: https://github.com/FraWagner
-  - icon: brand/huggingface
-    url: https://huggingface.co/frwagner
+#  - icon: brand/huggingface
+#    url: https://huggingface.co/frwagner
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/franziska-w-3862b3138/
   - icon: academicons/google-scholar
