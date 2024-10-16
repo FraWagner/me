@@ -147,3 +147,4 @@ languages:
 ## About Me
 
 Franziska Wagner studied comparative political sciences at the University of Mannheim and at the Paris Institute of Political Studies, Sciences Po. Her research interests lie in party politics, far-right politics, social media, and computational approaches to social sciences. Currently, she is pursuing a Ph.D in Political Sciences at the Central European University, where she works on party communication on social media, and the role of discourse and emotions.
+---
