@@ -72,6 +72,7 @@ education:
     institution: University of Mannheim, Germany
     date_start: 2014-09-01
     date_end: 2018-07-31
+
 work:
   - position: Research Assistant
     company_name: AUTHLIB Project
@@ -120,7 +121,6 @@ skills:
         description: ''
         icon: comments
 
-title: Languages
 languages:
   - name: English
     #percent: 100
