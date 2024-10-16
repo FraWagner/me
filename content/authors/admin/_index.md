@@ -68,17 +68,14 @@ education:
     institution: Sciences Po Paris, France
     date_start: 2018-09-01
     date_end: 2022-07-31
-    summary: |
-      ''
   - area: BA Political Science
     institution: University of Mannheim, Germany
     date_start: 2014-09-01
     date_end: 2018-07-31
-    summary: |
-      ''
 work:
   - position: Research Assistant
-    company_name: AUTHLIB Project
+#    company_name: AUTHLIB Project
+    project: AUTHLIB
     company_url: https://www.authlib.eu/
     company_logo: ''
     date_start: 2022-09-01
@@ -129,31 +126,21 @@ skills:
         description: ''
         #percent: 40
         icon: circle-stack
-  - name: Languagees
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: German
-        description: ''
-        #percent: 60
-        icon: person-simple-walk
-      - name: English
-        description: ''
-        #percent: 100
-        icon: cat
-      - name: French
-        description: ''
-        #percent: 80
-        icon: camera
-      - name: Spanish
-        description: ''
-        #percent: 80
-        icon: camera
 
 languages:
-  - name: German
-  - name: English
-  - name: French
-  - name: Spanish
+  title: 'Languages'
+  items:
+    - name: German
+      description: 'Native'
+      icon: globe
+    - name: English
+      description: 'Fluent'
+      icon: globe
+    - name: French
+      description: 'Intermediate'
+      icon: globe
+    - name: Spanish
+      description: 'Basic'
+      icon: globe
 
 ---
