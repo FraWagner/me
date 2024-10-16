@@ -103,28 +103,22 @@ skills:
     items:
       - name: Python
         description: ''
-        #percent: 80
-        icon: code-bracket
+        icon: python
       - name: R
         description: ''
-        #percent: 100
-        icon: chart-bar
+        icon: r-project
       - name: Stata
         description: ''
-        #percent: 40
-        icon: circle-stack
+        icon: database
       - name: Excel Power Query
         description: ''
-        #percent: 40
-        icon: circle-stack
+        icon: table
       - name: LaTeX
         description: ''
-        #percent: 40
-        icon: circle-stack
+        icon: file-alt
       - name: MAXQDA
         description: ''
-        #percent: 40
-        icon: circle-stack
+        icon: comments
 
 title: Languages
 languages:
