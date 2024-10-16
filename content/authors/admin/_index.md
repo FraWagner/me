@@ -126,20 +126,13 @@ skills:
         #percent: 40
         icon: circle-stack
 
+title: Languages
 languages:
-  name: 'Languages'
-  items:
-    - name: German
-      description: 'Native'
-      icon: globe
-    - name: English
-      description: 'Fluent'
-      icon: globe
-    - name: French
-      description: 'Intermediate'
-      icon: globe
-    - name: Spanish
-      description: 'Basic'
-      icon: globe
+  - name: English
+    percent: 100
+  - name: German
+    percent: 80
+  - name: French
+    percent: 60
 
 ---
