@@ -109,7 +109,7 @@ work:
     summary: |2-
       Led a project to optimize the management of email marketing databases, focusing on reviewing, unifying, and cleaning data to enhance targeted campaign capabilities and communication efficiency.
   - position: Research Assistant at the SUPERA Project
-    company_name: SUPERA: Supporting the Promotion of Equality in Research and Academia at CEU
+    company_name: SUPERA - Supporting the Promotion of Equality in Research and Academia at CEU
     company_url: https://www.superaproject.eu/  
     date_start: 2021-10-01  
     date_end: 2022-05-31  
