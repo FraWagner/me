@@ -72,5 +72,6 @@ sections:
           - event
     design:
       view: article-grid
+      date_format: 'January 2006'
       columns: 2
 ---
