@@ -1,7 +1,7 @@
 ---
 title: Field Research and Qualitative Data Analysis
 summary: Comprehensive understanding of how to systematically collect/generate data in the field, manage and analyze them.
-date: 2020-12-01
+date: 2021-12-01
 type: docs
 math: false
 tags:
