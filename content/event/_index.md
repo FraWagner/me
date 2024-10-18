@@ -2,6 +2,9 @@
 title: Recent & Upcoming Talks
 cms_exclude: true
 #url: talk
+design:
+      # Hugo date format
+      date_format: 'January 2006'
 
 # View
 view: card
