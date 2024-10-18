@@ -1,5 +1,5 @@
 ---
 title: Recent & Upcoming Talks
-cms_exclude: true
-view: showcase
+#cms_exclude: true
+view: article-grid
 ---

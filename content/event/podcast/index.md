@@ -34,7 +34,7 @@ featured: true
 
 image:
   caption: 'Image credit: [**The Pulaski Institution**](https://www.pulaskiinstitution.org/)'
-  focal_point: Right
+#  focal_point: Right
 
 #links:
 #  - icon: twitter
