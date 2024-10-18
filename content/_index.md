@@ -71,7 +71,6 @@ sections:
         folders:
           - event
     design:
-      view: showcase
-      columns: 1
-      spacing: 5rem
+      view: card
+      columns: 2
 ---
