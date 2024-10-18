@@ -1,7 +1,7 @@
 ---
 title: Data Analysis Tools for Qualitative Research in Social Sciences
 summary: Comprehensive understanding of how to collect/generate, manage, analyze, and visualize data in qualitative research
-date: 2022-04-04
+date: 2022-03-01
 type: docs
 math: false
 tags:

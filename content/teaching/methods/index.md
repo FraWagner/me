@@ -1,7 +1,7 @@
 ---
 title: Research Design and Methods
 summary: Introduction to epistemological frameworks, social science methodological tools and fundamental criteria of research design.
-date: 2022-04-04
+date: 2021-08-01
 type: docs
 math: false
 tags:
