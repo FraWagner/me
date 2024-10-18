@@ -102,6 +102,8 @@ work:
       - Project management and communication
       - Development of ethics guidelines and data management plan
   - position: Consultant - Database Unification for Email Marketing
+    company_name: El Dínamo
+    company_url: https://www.eldinamo.cl/ 
     date_start: 2024-05-01  
     date_end: 2024-07-01  
     summary: |2-
