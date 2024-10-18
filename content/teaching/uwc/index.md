@@ -9,7 +9,7 @@ tags:
   - Data Crawling
   - Software Tools
 image:
-  caption: ''
+  caption: 'Credit: Getty Images/iStockphoto'
 ---
 
 **Data Analysis Tools for Qualitative Research in Social Sciences**

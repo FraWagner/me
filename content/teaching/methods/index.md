@@ -9,7 +9,7 @@ tags:
   - Ethics
   - Fieldwork
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Credit: Getty Images/iStockphoto'
 ---
 
 **Data Analysis Tools for Qualitative Research in Social Sciences**

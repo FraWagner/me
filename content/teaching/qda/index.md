@@ -9,7 +9,7 @@ tags:
   - Fieldwork
   - MAXQDA
 image:
-  caption: ''
+  caption: 'Credit: Getty Images/iStockphoto'
 ---
 
 **Field Research and Qualitative Data Analysis**
