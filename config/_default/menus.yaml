@@ -19,6 +19,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: '' #teaching
-    url: ''
+  - name: Teaching
+    url: 'teaching/'
     weight: 40
