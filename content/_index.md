@@ -71,6 +71,7 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: showcase
       columns: 1
+      spacing: 5rem
 ---
