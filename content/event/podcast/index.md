@@ -36,7 +36,9 @@ image:
   caption: 'Image credit: [**The Pulaski Institution**](https://www.pulaskiinstitution.org/)'
 #  focal_point: Right
 
-#links:
+links:
+  - name: Podcast
+    url: 'https://theperipheryfrompulaski.buzzsprout.com/1845543/episodes/15850120-franziska-wagner-on-positive-authoritarianism-and-how-the-far-right-makes-extremism-sound-good'
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
