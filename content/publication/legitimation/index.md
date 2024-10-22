@@ -7,11 +7,11 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "Forthcoming"
+#date: "Forthcoming"
 #doi: "https://doi.org/10.3389/fpos.2024.1390587"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-22T00:00:00Z"
+publishDate: "2024-10-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Lukasz Michalczyk via Shutterstock'
+  caption: 'Image credit: Getty Images'
   focal_point: ""
   preview_only: false
 
