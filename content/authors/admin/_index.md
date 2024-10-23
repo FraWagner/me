@@ -52,7 +52,7 @@ interests:
   - social media
   - computational social sciences
   - natural language processing
-  - articifical intelligence
+  - AI governance
 
 education:
   - area: PhD Political Science
