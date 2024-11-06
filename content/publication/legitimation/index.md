@@ -8,7 +8,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 #date: "Forthcoming"
-#doi: "https://doi.org/10.3389/fpos.2024.1390587"
+doi: "https://doi.org/10.1080/21599165.2024.2420967"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-21T00:00:00Z"
@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2024.1390587/full
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/21599165.2024.2420967
 url_code: ''
 url_dataset: ''
 url_poster: ''
