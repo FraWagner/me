@@ -1,5 +1,5 @@
 ---
-title: "Under Review: Opposition to Government and Back - The Shifting Immigration Discourse of Illiberal Parties in Europe"
+title: "Under Review - Opposition to Government and Back. The Shifting Immigration Discourse of Illiberal Parties in Europe"
 authors:
 - admin
 - Dean Schafer
