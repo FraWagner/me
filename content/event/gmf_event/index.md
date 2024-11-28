@@ -43,9 +43,10 @@ links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
+- paper: 'https://www.tandfonline.com/doi/full/10.1080/21599165.2024.2420967'
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com/FraWagner/intro_text_HP'
-url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/21599165.2024.2420967'
+#url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/21599165.2024.2420967'
 #url_slides: 'https://slideshare.net'
 #url_video: 'https://youtube.com'
 
