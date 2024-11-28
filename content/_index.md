@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a PhD Candidate at Central European University in Vienna, Austria. I work on political crisis communication on social media, far right politics, and AI governance.
+        I am a PhD Candidate at Central European University in Vienna, Austria. I work on computational social science, political crisis communication on social media, far-right politics, and AI (&) governance .
 
         I apply a range of qualitative and quantitative methods, with particular focus on computational social science and natural language processing.
         

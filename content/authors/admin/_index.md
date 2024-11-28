@@ -48,10 +48,10 @@ profiles:
     
 
 interests:
-  - political communication
-  - social media
-  - computational social sciences
-  - natural language processing
+  - Computational social sciences
+  - Natural language processing
+  - Political communication
+  - Social media
   - AI governance
 
 education:
