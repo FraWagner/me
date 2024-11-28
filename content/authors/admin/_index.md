@@ -52,7 +52,7 @@ interests:
   - Natural language processing
   - Political communication
   - Social media
-  - AI governance
+  - AI (&) governance
 
 education:
   - area: PhD Political Science
