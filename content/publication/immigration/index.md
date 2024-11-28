@@ -28,10 +28,10 @@ abstract: In the recent decades, illiberal far-right parties have seen electoral
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- 	Europe
+- Europe
 - immigration discourse
 - illiberal parties
-- far-right parties
+- far right parties
 - party competition
 - parliamentary speeches
 featured: true
