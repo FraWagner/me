@@ -7,7 +7,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: ""
+#date: ""
 #doi: "https://doi.org/10.1080/21599165.2024.2420967"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Politics and Governance"
-publication_short: ""
+#publication_short: ""
 
 abstract: The illiberal ideology of parties exerts an independent causal effect on democratic erosion. Existing studies show that robust democratic institutions help contain illiberal leaders, as in the cases of Donald Trump in the US and Jair Bolsonaro in Brazil. Likewise, illiberal actors harm formal liberal institutions, such as constitutions, as in the case of Fidesz in Hungary, and informal institutions, such as fundamental rights, as in the case of PiS in Poland. What is less evident is whether such actors qualify as illiberal in a systematic, measurable way. Identifying illiberal actors in a systematic way would allow us to detect the emergence of illiberal leaders, identify their degrees of illiberality, and recognize varieties of illiberalism. In this paper, we address this gap by using text-as-data methods to measure illiberalism across seven countries and two policy areas. Ideology represents a notoriously difficult concept to measure. Illiberalism can be innovative, doctrinally fluid, and context-based. Previous research defined the concept with only a few stable and coherent features or based on its demarcation to liberalism. Our approach deconstructs illiberalism into primary qualities that contradict liberal principles, such as pluralism (anti-minority, moral other and uncivil/non-rational) as well as in secondary qualities that provide information about illiberal types such as christian fundamentalism, nationalist/nativist, populism and traditionalism. These qualities serve as the foundation of our liberal-illiberal scale. This paper uses a combination of text analysis methods to build a liberal-illiberal scale covering two policy areas; gender and immigration. Our approach brings together three datasets of speeches in parliament—the Comparative Agendas Project, ParlSpeech, and ParlEE—covering seven European countries; Hungary, Poland, Czechia, Austria, France, Italy, and the United Kingdom. Based on our deconstruction of illiberalism and previous research, we employ methods validated by and to develop a minimal liberal-illiberal dictionary and use word embedding techniques and cosine similarity to map the positions of the parties in these seven European countries on our liberal-illiberal scale across policy areas. This paper shows that by combining different text analysis approaches, we can go beyond previous limitations to measuring ideology in discourse. Because word embeddings represent the meanings of words through their use in context, our approach provides sufficient flexibility to compare the positions of actors on multiple dimensions across countries.
 
