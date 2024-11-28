@@ -27,7 +27,8 @@ abstract: The illiberal ideology of parties exerts an independent causal effect 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-#tags:
+tags:
+- In Work
 featured: true
 
 # links:
