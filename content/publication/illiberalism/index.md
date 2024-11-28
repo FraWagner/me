@@ -1,5 +1,5 @@
 ---
-title: "Measuring Illiberalism: Mapping Illiberalism in Seven Countries using Word Embeddings and Dictionaries"
+title: "Under Work: Measuring Illiberalism - Mapping Illiberalism in Seven Countries using Word Embeddings and Dictionaries"
 authors:
 - Dean Schafer
 - admin
@@ -7,7 +7,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "Under Work"
+date: ""
 #doi: "https://doi.org/10.1080/21599165.2024.2420967"
 
 # Schedule page publish date (NOT publication's date).
