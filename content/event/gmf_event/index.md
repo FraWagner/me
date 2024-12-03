@@ -44,7 +44,7 @@ links:
 #url_code: 'https://github.com/FraWagner/intro_text_HP'
 #url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/21599165.2024.2420967'
 #url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=IVIArKgpq4Y&t=3698s&ab_channel=AUTHLIB'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
