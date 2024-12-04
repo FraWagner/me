@@ -64,6 +64,18 @@ education:
   #  button:
   #    text: 'Read Thesis'
   #    url: 'https://example.com'
+  - area: Visiting Doctoral Researcher
+    institution: Vrije Universiteit Amsterdam, Netherlands
+    date_start: 2024-04-01
+    date_end: 2024-06-30
+  - area: Visiting Doctoral Researcher
+    institution: Universidad Diego Portales, Santiago, Chile
+    date_start: 2023-09-15
+    date_end: 2023-12-15
+  - area: Summer Institute in Computational Social Science
+    institution: WZB Berlin Social Science Center, Germany
+    date_start: 2023-07-03
+    date_end: 2023-07-13
   - area: Research MA in Political Science
     institution: Sciences Po Paris, France
     date_start: 2018-09-01
