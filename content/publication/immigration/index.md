@@ -36,17 +36,9 @@ tags:
 - parliamentary speeches
 featured: true
 
-# links:
-# - name: ""
-url: "www.cogitatiopress.com/politicsandgovernance/article/view/9609"
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - name: "Full article"
+    url: "https://www.cogitatiopress.com/politicsandgovernance/article/view/9609"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
