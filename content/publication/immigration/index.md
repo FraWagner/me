@@ -7,7 +7,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2025"
+date: "2025-04-02T00:00:00Z"
 doi: "https://doi.org/10.17645/pag.9609"
 
 # Schedule page publish date (NOT publication's date).
