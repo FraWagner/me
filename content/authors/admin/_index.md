@@ -24,14 +24,14 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Central European University, Vienna, Austria
-    url: https://www.ceu.edu/ 
+  - name: National Center for Artificial Intelligence (CENIA), Chile
+    url: https://cenia.cl/  
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:wagner_franziska@phd.ceu.edu'
+    url: 'mailto:franziska.wagner@cenia.cl'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/fra_wagner_
@@ -58,7 +58,7 @@ education:
   - area: PhD Political Science
     institution: Central European University, Vienna, Austria
     date_start: 2020-09-01
-    date_end: ''
+    date_end: '2025-06-13'
   #  summary: |
   #    ''
   #  button:
@@ -86,6 +86,12 @@ education:
     date_end: 2018-07-31
 
 work:
+  - position: Postdoctoral Researcher
+    company_name: National Center for Artificial Intelligence (CENIA), Chile
+    company_url: https://cenia.cl/  
+    company_logo: ''
+    date_start: 2025-07-01
+    date_end: ''
   - position: Consultant - Country Expert for Democracy Tracker
     company_name: International IDEA
     company_url: https://www.idea.int/
