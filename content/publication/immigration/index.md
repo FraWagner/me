@@ -38,7 +38,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "https://www.cogitatiopress.com/politicsandgovernance/article/view/9609"
+url: "www.cogitatiopress.com/politicsandgovernance/article/view/9609"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
