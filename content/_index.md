@@ -74,7 +74,8 @@ sections:
       view: article-grid
       date_format: 'January 2006'
       columns: 2
-  - block: news
+  - block: collection
+    id: news
     content:
       title: Recent News Articles
       filters:
